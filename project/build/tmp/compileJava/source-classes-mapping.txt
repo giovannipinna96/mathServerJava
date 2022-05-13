@@ -1,0 +1,39 @@
+projectMathServer/Server/ComputeServer.java
+ projectMathServer.Server.ComputeServer
+projectMathServer/Exception/VariableValuesNotEqualSizeException.java
+ projectMathServer.Exception.VariableValuesNotEqualSizeException
+projectMathServer/Expression/ExpressionComponents/Variable.java
+ projectMathServer.Expression.ExpressionComponents.Variable
+projectMathServer/Server/StatComputeServerUtils.java
+ projectMathServer.Server.StatComputeServerUtils
+ projectMathServer.Server.StatComputeServerUtils$1
+ projectMathServer.Server.StatComputeServerUtils$StatRequest
+projectMathServer/Expression/Computator.java
+ projectMathServer.Expression.Computator
+ projectMathServer.Expression.Computator$1
+projectMathServer/Expression/ExpressionComponents/Operator.java
+ projectMathServer.Expression.ExpressionComponents.Operator
+ projectMathServer.Expression.ExpressionComponents.Operator$Type
+projectMathServer/Expression/ExpressionComponents/Constant.java
+ projectMathServer.Expression.ExpressionComponents.Constant
+projectMathServer/Expression/VariableValues.java
+ projectMathServer.Expression.VariableValues
+projectMathServer/Expression/ExpressionComponents/AbstractNode.java
+ projectMathServer.Expression.ExpressionComponents.AbstractNode
+projectMathServer/Expression/Parser.java
+ projectMathServer.Expression.Parser
+ projectMathServer.Expression.Parser$Token
+ projectMathServer.Expression.Parser$TokenType
+projectMathServer/Expression/ExpressionEvaluator.java
+ projectMathServer.Expression.ExpressionEvaluator
+ projectMathServer.Expression.ExpressionEvaluator$1
+projectMathServer/Server/ComputeServerUtils.java
+ projectMathServer.Server.ComputeServerUtils
+ projectMathServer.Server.ComputeServerUtils$ComputationKind
+ projectMathServer.Server.ComputeServerUtils$ValuesKind
+projectMathServer/Expression/VariableValuesUtils.java
+ projectMathServer.Expression.VariableValuesUtils
+projectMathServer/TestServerMain.java
+ projectMathServer.TestServerMain
+projectMathServer/Main.java
+ projectMathServer.Main
